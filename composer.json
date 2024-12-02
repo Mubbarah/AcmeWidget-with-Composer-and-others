@@ -1,0 +1,10 @@
+{
+    "name": "mubbarah/acme-widget",
+    "description": "A PHP-based basket system for Acme Widget Co.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "AcmeWidget\\": "src/"
+        }
+    }
+}
